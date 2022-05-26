@@ -2,7 +2,6 @@
   
 ## Table of contents    
 -[Description](#Description)   
--[Images](#Images)     
 -[Installation](#Installation)  
 -[Contact Me](#Contact-Me)    
 -[License](#License)  
@@ -13,19 +12,10 @@
 
 ## The Project
 ```md
-...  
-```
-
-- [x] ...  
-
-## The development process
-
-In order to accomplish the challenge, the following steps were done:  
-
-* ... 
-  
-## Images  
-![Img 1]()  
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+```  
 
 ## Installation  
 
