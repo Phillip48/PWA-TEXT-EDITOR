@@ -8,8 +8,8 @@
 -[Contributors](#Contributors)  
 
 ## Description  
-This app is a text editor that runs in the browser. The app is a single-page application. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application can also function offline.
-[Live Link](https://dry-inlet-40544.herokuapp.com/)
+This app is a text editor that runs in the browser. The app is a single-page application. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application can also function offline.  
+[Live Link](https://dry-inlet-40544.herokuapp.com/)  
 
 ## The Project
 ```md
